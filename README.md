@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,971 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,972 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&utm_source=github&utm_medium=readme&utm_campaign=all)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
@@ -13,16 +13,17 @@
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 564 | 46 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 472 | 56 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
-| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 132 | 19 |
+| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 133 | 20 |
 
 ## All roles
 
-<sub>1,971 open roles, newest first</sub>
+<sub>1,972 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Hatch** | Tunnels & Underground Works – Electromechanical, Intern | Montréal, QC | — | Nov 14 | [Apply ↗](https://coawp.com/go/c2d38563-11ca-4c34-9743-74aab44a262a?from=github-all) |
 | ↳ | Tunnels and Underground Structures, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 14 | [Apply ↗](https://coawp.com/go/740ad983-08b8-4832-be76-ba6267092f21?from=github-all) |
+| **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 14 | [Apply ↗](https://coawp.com/go/8e844c06-c9a4-4547-8aa8-5a1e0da6d562?from=github-all) |
 | **Workday** | Machine Learning Engineer, Intern | Vancouver, BC<br>Toronto, ON<br><sub>Hybrid</sub> | Winter, Summer 2027<br><sub>3 or 6 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/30ac3022-ac94-417a-9288-03af294a7f9c?from=github-all) |
 | ↳ | Software Development Engineer, Intern | Vancouver, BC<br><sub>Hybrid</sub> | Winter 2027<br><sub>6 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/b139828d-3126-4508-b416-474af6aec424?from=github-all) |
 | **Vancity** | ITS Operations & Communications, Intern | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/dc872a23-7304-483c-994e-d494507e264b?from=github-all) |
