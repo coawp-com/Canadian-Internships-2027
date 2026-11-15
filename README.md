@@ -7,13 +7,13 @@
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&utm_source=github&utm_medium=readme&utm_campaign=all)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
 
-| List | What it covers | Open roles | New this week |
+| List | What it covers | Open&nbsp;roles | New&nbsp;this&nbsp;week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data and AI, IT and security, and product and design | 519 | 44 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical, manufacturing and hardware engineering | 564 | 46 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting, strategy and HR | 472 | 56 |
-| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, capital markets, investments, accounting, risk, actuarial and insurance | 213 | 32 |
-| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Lab and field science, research and healthcare | 132 | 19 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 519 | 44 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 564 | 46 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 472 | 56 |
+| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
+| [Science&nbsp;&&nbsp;Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 132 | 19 |
 
 Roles with no list of their own are further down this page: [Legal](#legal) (14), [Education & Teaching](#education--teaching) (8) and [Other](#other) (49).
 
