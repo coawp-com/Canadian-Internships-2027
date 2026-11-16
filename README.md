@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,978 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,975 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -13,15 +13,15 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 522 | 45 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 564 | 46 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 474 | 57 |
-| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 473 | 57 |
+| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 211 | 32 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 134 | 20 |
 
 Building something? Every role here is in [listings.json](listings.json), rewritten every 2 hours. Use it freely, with a link back to [coawp.com](https://coawp.com).
 
 ## All roles
 
-<sub>1,978 open roles, newest first</sub>
+<sub>1,975 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -743,7 +743,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Software Developer Technician, Intern | Québec, QC | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/6b544bd1-d9a1-4397-b6f7-9720e60c03d4?from=github-all) |
 | **FortisBC** | Engineering – Distribution Lines, Co-op | Kelowna, BC | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/8f4a0ea0-33d6-4607-85be-5c7aa0522604?from=github-all) |
 | **Hitachi** | Software Analyst, Intern | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/1078e9fe-f5b4-4c1b-bf06-5bcd69d4e0da?from=github-all) |
-| **Investissement Québec** | Exports, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/a4b58808-fdc3-403f-bd2a-ec3a1fedf7e0?from=github-all) |
 | **Magna** | WCM, Co-op | Brampton, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/d8a7f708-988b-44ab-b4a5-971f7385d60e?from=github-all) |
 | **Mission Control Space Services** | Content Creation & Video, Intern | Ottawa, ON | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/ff8cc718-5a42-49eb-b7f6-0cef52431e81?from=github-all) |
 | **Nutrien** | Data Analytics/​Digital Solutions, Co-op | Saskatchewan | Summer 2027<br><sub>16 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/6d8cb4d6-b6aa-43f8-b9f4-4b41c6ae6a19?from=github-all) |
@@ -1140,8 +1139,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Bunge** | Grain Grader, Student | Fort Saskatchewan, AB | — | Oct 15 | [Apply ↗](https://coawp.com/go/3db872ce-49b2-4da4-9c30-a755906f38b0?from=github-all) |
 | **Hitachi** | CI Maturity Development, Intern | Stoney Creek, ON | Winter 2027<br><sub>6 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/853afd4c-bd34-46e8-a78a-71783b05fbf7?from=github-all) |
 | **Investissement Québec** | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Brossard, QC | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/1504f463-4e14-412a-a248-975c521a5ba9?from=github-all) |
-| ↳ | Account Director – Regional Network, Intern<br><sub>Requires French</sub> | Laval, QC<br>Saint-Jérôme, QC<br><sub>+3 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/234896d2-68c3-4437-bc8e-a61733d0ba2a?from=github-all) |
-| ↳ | Analyst – Regional Network, Intern<br><sub>Requires French</sub> | Québec, QC<br>Drummondville, QC<br><sub>+10 more</sub> | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/74887a94-1ccf-46c9-8f7f-ab2849f8c88f?from=github-all) |
 | **Magna** | Engineering, Intern | St. Thomas, ON | — | Oct 15 | [Apply ↗](https://coawp.com/go/ab876154-5edc-4160-aede-76c74c28931d?from=github-all) |
 | **Nutrien** | Data Integration, Co-op | Saskatoon, SK | Winter 2027<br><sub>12 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/a85ad12e-22c2-4fa0-96ed-009ce29d9eb3?from=github-all) |
 | ↳ | Planning and Delivery, Co-op | Saskatoon, SK | Winter 2027<br><sub>12 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/df0b4b6b-582d-4f7e-a75b-7ab807cf68ae?from=github-all) |
