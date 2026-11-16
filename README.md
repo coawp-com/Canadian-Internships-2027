@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**2,120 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**2,119 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 541 | 42 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 597 | 39 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 596 | 39 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 517 | 48 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 220 | 28 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 160 | 22 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>2,120 open roles, newest first</sub>
+<sub>2,119 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -789,7 +789,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Qualcomm** | Deep Learning Research – Embodied AI, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/cdded55b-c34a-47ab-9820-8cc592fc96b8?from=github-all) |
 | **SOTI** | QA, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/61ae67c1-5c4a-4edc-bb74-2424cd7163cc?from=github-all) |
 | ↳ | Software Developer – XSight, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/079274b0-2f90-47c7-be5d-71384b6fa817?from=github-all) |
-| **Spartan Controls** | Automation Specialist, Co-op | Burnaby, BC | Winter 2027<br><sub>8 or 12 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/ad597ffb-b770-4adc-8316-2556bb14adf7?from=github-all) |
 | **TMX Group** | Analyst – Market Insights, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/88c08637-e8a6-42da-bb85-a25c27972443?from=github-all) |
 | ↳ | Analyst – Model Validation, Intern | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/9d218657-fdf9-4f54-8136-7e557eee5a92?from=github-all) |
 | ↳ | DevOps, Intern | Montréal, QC | 4 months | Oct 28 | [Apply ↗](https://coawp.com/go/930ad929-7722-44d9-acb1-4cc0c52f27c3?from=github-all) |
