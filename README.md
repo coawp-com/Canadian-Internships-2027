@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**2,096 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**2,106 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,25 +11,43 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 512 | 41 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 600 | 41 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 514 | 53 |
-| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 223 | 29 |
-| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 160 | 22 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 515 | 45 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 605 | 48 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 517 | 57 |
+| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 221 | 28 |
+| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 161 | 23 |
 
 Building something? Every role here is in [listings.json](listings.json), rewritten every 2 hours. Use it freely, with a link back to [coawp.com](https://coawp.com).
 
 ## All roles
 
-<sub>2,096 open roles, newest first</sub>
+<sub>2,106 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **KPMG** | Consultant, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/4048ffee-dd4b-49e8-8e3f-708c6802acac?from=github-all) |
+| **Waterville TG** | Materials Development, Intern | Quebec | — | Nov 16 | [Apply ↗](https://coawp.com/go/88a6afae-513f-429b-9e85-4df648b86c0d?from=github-all) |
+| **KPMG** | Opportunities in Audit, Co-op | Hamilton, ON<br>Oakville, ON | Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/3ec2b75b-0944-46bc-8acf-d8174612bc72?from=github-all) |
+| **Fleetway** | Safety, Co-op | Saint John, NB | Winter, Summer 2027<br><sub>4 or 8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/05120953-a7c4-4254-9207-6acd372dbf30?from=github-all) |
+| **J.D. Irving** | Safety, Co-op | Saint John, NB | Winter 2027<br><sub>4 or 8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/3725f7f1-67de-4d55-8458-74112a38030f?from=github-all) |
+| **AECOM** | Electrical Engineering, Intern | Burnaby, BC<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 or 8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/db5acfbd-c7ef-4016-93fa-e5026cf67d24?from=github-all) |
+| **Fleetway** | Electrical Instrumentation and Controls Technician, Intern | Saint John, NB | Winter 2027<br><sub>4 or 8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/f8c876af-acbd-4037-a8f5-4d33021fcb6d?from=github-all) |
+| **J.D. Irving** | Electrical Instrumentation and Controls Technician, Intern | Saint John, NB | Winter 2027<br><sub>4 or 8 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/1000721f-f817-4973-be31-83401c3c675f?from=github-all) |
+| **QSL** | Software Development and Artificial Intelligence, Intern | Québec, QC | Winter 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/f38d5ab2-b095-448f-bb6f-59a63a8b4295?from=github-all) |
 | **KPMG** | CPA Opportunities in Audit, Co-op | Toronto, ON<br>Vaughan, ON | Summer, Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/a9830f05-d0e6-4706-b908-8e48148b7caa?from=github-all) |
 | **Hootsuite** | People Team & Operations, Co-op | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/94f82f35-2eda-4b2c-b8cf-454d8c0abdc4?from=github-all) |
+| **Fleetway** | Sawmill Operator – Veneer Sawmill, Student | New Brunswick | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/ec0eaf2f-2ddd-49f3-9898-c8bb11e52067?from=github-all) |
+| **J.D. Irving** | Sawmill Operator – Veneer Sawmill, Student | New Brunswick | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/306c3692-2984-46a3-8dc7-bb86a33b71f6?from=github-all) |
 | **Kinectrics** | Multimedia Designer, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/63e36f17-1859-46ff-b1ab-e2b6b49661b3?from=github-all) |
 | **Manulife** | Canadian Operations Management, Co-op | Toronto, ON | Summer 2027<br><sub>8 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/90dc32be-96ae-40ef-874b-668408853686?from=github-all) |
+| ↳ | Product Designer (UX/​UI/​HCI), Co-op | Toronto, ON<br>Waterloo, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/d4eae698-406f-4dac-a820-9d94f8e0c745?from=github-all) |
 | ↳ | Transformation Delivery Analyst, Co-op | Toronto, ON<br>Waterloo, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4bd751e2-2acd-49bd-95ca-bce47fd39c77?from=github-all) |
+| **Oak Valley Health** | Diet Office Clerk (CUPE) – Food Services, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/17b033f3-5515-466e-ae8a-908035423e7b?from=github-all) |
+| **RBC** | Developer, Co-op | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/5954178b-cdb9-49f6-a7ae-feb84a43a52d?from=github-all) |
+| ↳ | Wealth Management Administrative Assistant, Intern | Montréal, QC | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/034d1baf-c411-4669-a80e-769a26718817?from=github-all) |
+| **Saputo** | Automation & Operational Technology, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br><sub>Hybrid</sub> | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4545e07c-6a59-4637-b7da-cb7353b2dddb?from=github-all) |
+| ↳ | Packaging Data and Sustainability, Intern<br><sub>Requires French</sub> | Saint-Léonard, QC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4f23092d-8f7b-4e91-953a-627f19d7be15?from=github-all) |
+| ↳ | Reliability and Maintenance, Intern | Brandon, MB | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/a9eec83c-8b70-437b-a10f-d6c14a6f41b4?from=github-all) |
 | **Varian (Siemens Healthineers)** | HR, Intern | Canada<br><sub>Hybrid</sub> | — | Nov 15 | [Apply ↗](https://coawp.com/go/4d8547c3-1882-40c1-a034-229b0eda5bce?from=github-all) |
 | **Steel** | Software Engineer, Intern | Toronto, ON | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/42c538de-a018-4b56-8c2b-44935a008f17?from=github-all) |
 | ↳ | Growth, Intern | Toronto, ON | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/6fdee8df-3f48-49fe-b240-e6f9bae9472e?from=github-all) |
@@ -85,7 +103,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Supplier Performance Analyst, Intern | Thornhill, ON | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/af153306-f63e-4c15-8a63-5c1dd1c5d8b4?from=github-all) |
 | **Groupe Meloche** | Metrologist (Calibration), Intern | Canada | — | Nov 12 | [Apply ↗](https://coawp.com/go/ae96eece-ffd3-4e8f-8a4f-ac99e23b52c9?from=github-all) |
 | **Hannover Re** | Business Development, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/90d7e038-26b1-40b3-b57f-b7e998638443?from=github-all) |
-| ↳ | Corporate Actuarial, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/e2b50ac4-2ac0-4bde-b6f5-8c795781e7c3?from=github-all) |
 | ↳ | Finance, Intern | Hamilton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/4a05f730-e4f8-44b3-a7c8-d856a0779640?from=github-all) |
 | ↳ | Underwriting, Intern | Hamilton, ON | 2 months | Nov 12 | [Apply ↗](https://coawp.com/go/a569c20e-50ab-4ca0-8947-3649f55c6474?from=github-all) |
 | **HUB International** | Investment Consulting, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/6f70cdb7-d0ce-43d8-b2bf-27d91a5d5ec6?from=github-all) |
@@ -160,14 +177,12 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Welch LLP** | Accounting, Co-op | Ottawa, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/0d3322dc-e8ae-4879-997c-dd85aed76f4b?from=github-all) |
 | **ATS Traffic** | IT Support Technician, Co-op | Edmonton, AB | Winter 2027<br><sub>8 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/9e884ecf-13c1-4d74-9ef3-b1d76204eca1?from=github-all) |
 | **Dexterra Group** | Organizational Effectiveness, Intern | Mississauga, ON<br><sub>Remote</sub> | 4 months | Nov 11 | [Apply ↗](https://coawp.com/go/eda6db5c-57d3-418a-9ea9-911daf8e24b6?from=github-all) |
-| **Definity** | Financial Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/18d4d8fb-336e-4089-9bac-3b89ea83814e?from=github-all) |
 | **Amrize (Lafarge Canada)** | Quality Control, Co-op | Winnipeg, MB | 4 or 8 months | Nov 11 | [Apply ↗](https://coawp.com/go/dcfbed46-0592-428f-93cd-0cb25cfe8572?from=github-all) |
 | **Belden** | HR, Intern | Newfoundland and Labrador | — | Nov 11 | [Apply ↗](https://coawp.com/go/76cb9b93-7d2b-4e4b-bab2-920b5c25d359?from=github-all) |
 | **ACCES Employment** | Human Resources, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 11 | [Apply ↗](https://coawp.com/go/556ec82d-a8e3-4d27-bade-1eb86066bc14?from=github-all) |
 | **Volvo Group (Nova Bus, Prevost, Volvo Trucks Canada)** | Lean Implementation, Co-op | Milton, ON | Winter 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/f3167c46-bcda-40ce-9905-966de3cb0349?from=github-all) |
 | **Aecon** | Project Coordinator, Co-op | Ohsweken, ON | 4 months | Nov 10 | [Apply ↗](https://coawp.com/go/85d1ed45-c0a3-4805-b618-6b0181dde116?from=github-all) |
 | ↳ | Project Coordinator, Co-op | Toronto, ON | 12 months | Nov 10 | [Apply ↗](https://coawp.com/go/1b74391a-7c9b-4f58-8703-c888b7ab545b?from=github-all) |
-| **Agropur** | Forklift Truck Operator, Student<br><sub>Requires French</sub> | Saint-Hubert, QC | — | Nov 10 | [Apply ↗](https://coawp.com/go/33c24715-83ee-48f7-beec-f2e09de13b52?from=github-all) |
 | **BDO Canada** | Digital Marketing, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/4e1c47fc-63e4-4394-a939-3f93fd117edb?from=github-all) |
 | **Canadian Tire** | Business Operations Analyst, Intern | Welland, ON | Winter 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/6f723a88-0224-4e1b-a06f-b7289daa681b?from=github-all) |
 | **Cargill** | Summer Student | Manitoba | Summer 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/aaaac39d-0ff5-413c-ba04-245c5553413d?from=github-all) |
@@ -820,7 +835,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Qualcomm** | Camera Design Engineering, Intern | Vancouver, BC | Summer 2027<br><sub>12 or 16 months</sub> | Oct 27 | [Apply ↗](https://coawp.com/go/369a7cc1-ffcd-42a1-9991-9161a051a73a?from=github-all) |
 | **Rockwell Automation** | Warehouse Engineering, Co-op | Cambridge, ON | 8 or 12 months | Oct 27 | [Apply ↗](https://coawp.com/go/5c2235bd-5ff0-4180-8ac4-1073e9eb55b9?from=github-all) |
 | **SOTI** | Cloud Administrator, Intern | Mississauga, ON | Winter 2027<br><sub>12 months</sub> | Oct 27 | [Apply ↗](https://coawp.com/go/30dc93fe-2ad3-49e2-9922-39f77dcb5b65?from=github-all) |
-| **Varian (Siemens Healthineers)** | Software Developer, Co-op | Winnipeg, MB | — | Oct 27 | [Apply ↗](https://coawp.com/go/a7779558-701e-4303-9ce3-632da7b285b0?from=github-all) |
 | **Volvo Group (Nova Bus, Prevost, Volvo Trucks Canada)** | Labour Relations – Analysis and Special Projects, Intern | Saint-Eustache, QC | — | Oct 27 | [Apply ↗](https://coawp.com/go/fc489af6-224a-446e-bf50-8230f71e0da1?from=github-all) |
 | ↳ | Labour Relations – Documentation and Structure, Intern<br><sub>Requires French</sub> | Saint-Eustache, QC | — | Oct 27 | [Apply ↗](https://coawp.com/go/ad9f2faf-b580-46dd-bd43-9df34071e3e4?from=github-all) |
 | **Xradar** | Software Engineer, Co-op | Burnaby, BC | Winter 2027 | Oct 27 | [Apply ↗](https://coawp.com/go/f91058a7-c2de-43a6-a143-48d1bf284dfe?from=github-all) |
@@ -925,7 +939,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **StandardAero** | Engineering – Quality, Intern | Winnipeg, MB | 4 months | Oct 23 | [Apply ↗](https://coawp.com/go/235549e5-260a-47b9-8379-10b01ca02629?from=github-all) |
 | **Sony Interactive Entertainment** | Software Developer in Test, Co-op | Waterloo, ON | 12 or 16 months | Oct 23 | [Apply ↗](https://coawp.com/go/c76303df-530e-4467-aae6-c27a1943e4ad?from=github-all) |
 | **Sony Music Entertainment** | Media Engagement, Intern | Toronto, ON | 4 months | Oct 23 | [Apply ↗](https://coawp.com/go/bdebd265-1d09-4f67-8aa3-ef9e203fd3d0?from=github-all) |
-| ↳ | Radio & Artist Engagement, Intern | Toronto, ON | 4 months | Oct 23 | [Apply ↗](https://coawp.com/go/69f54a8f-9b8a-4d08-a479-b230126c6e3b?from=github-all) |
 | **TELUS Digital** | Software Engineering, Co-op | Vancouver, BC<br><sub>Remote</sub> | Summer 2027<br><sub>4 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/480e1469-12a4-494f-97a7-bebf95bc67e7?from=github-all) |
 | **Simplot** | Ag Innovation, Intern | Saskatchewan | — | Oct 23 | [Apply ↗](https://coawp.com/go/a232c7c4-cbae-48ff-8c7d-1f3e7b036cf2?from=github-all) |
 | ↳ | Ag Innovation, Intern | Alberta | — | Oct 23 | [Apply ↗](https://coawp.com/go/b92fbc99-11fe-4fea-99b6-16509e1fa25e?from=github-all) |
@@ -1203,7 +1216,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Government of Nova Scotia** | Accounting, Co-op | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/efabc0a5-f2e7-4cd7-a3df-04dd542afdc9?from=github-all) |
 | **Hitachi** | Community Engagement, Intern<br><sub>Requires French</sub> | Varennes, QC | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/dbf9a17e-c4bc-4a8c-856e-ed612c4d91c7?from=github-all) |
 | ↳ | Field Service, Intern | Kelowna, BC | Summer 2027 | Oct 18 | [Apply ↗](https://coawp.com/go/d9105004-eb54-4a4f-8dd8-8b1cf80393f4?from=github-all) |
-| **Lumentum** | Optical Algorithms and Analytics Engineering, Co-op | Ottawa, ON | Summer 2027<br><sub>16 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/237ecaf5-bfd0-4288-9f6a-2d80395f0d2b?from=github-all) |
 | **Maple Leaf Sports & Entertainment** | HR Operations, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Oct 18 | [Apply ↗](https://coawp.com/go/36a16190-b9bb-4387-a3e2-b57e33300b67?from=github-all) |
 | ↳ | Premium & VIP Experiences, Intern | Toronto, ON<br><sub>Hybrid</sub> | — | Oct 18 | [Apply ↗](https://coawp.com/go/21e35c89-4d8d-473c-ac17-67e6b40bbc14?from=github-all) |
 | **NexGold Mining (Treasury Metals)** | Community Relations, Co-op | Nova Scotia<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/ab47de23-9e10-4103-a713-3d2c1227f0fd?from=github-all) |
@@ -1695,7 +1707,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Software Engineer, Co-op | Toronto, ON | 4 months | Sep 28 | [Apply ↗](https://coawp.com/go/c94c02da-6a79-45ef-accb-afa70b34c990?from=github-all) |
 | **IKO** | Maintenance Engineering, Co-op | Ashcroft, BC | Winter 2027<br><sub>8 months</sub> | Sep 28 | [Apply ↗](https://coawp.com/go/679602ae-9ece-48d4-a066-4fc4c24b0f47?from=github-all) |
 | **Oak Valley Health** | Registered Practical Nurse – Inpatient Med/​Surg, Student | Uxbridge, ON | — | Sep 28 | [Apply ↗](https://coawp.com/go/bacebe1c-2aa4-46e5-aea3-8b3b55831e87?from=github-all) |
-| **Varian (Siemens Healthineers)** | Manufacturing Engineer Assistant, Co-op | Ottawa, ON | — | Sep 28 | [Apply ↗](https://coawp.com/go/cd0e6693-f5ae-41d3-96a8-d088d65bc480?from=github-all) |
 | **Coveo** | Frontend Developer, Intern | Québec, QC | Winter 2027 | Sep 28 | [Apply ↗](https://coawp.com/go/92a09975-8f68-4a65-8b5d-1e845dacdd0c?from=github-all) |
 | ↳ | Frontend Developer, Intern | Montréal, QC | Winter 2027 | Sep 28 | [Apply ↗](https://coawp.com/go/8003f00f-b696-4314-acf1-72dcab145bf6?from=github-all) |
 | **Lyft** | Industrialization Engineering, Intern<br><sub>Requires French</sub> | Longueuil, QC | — | Sep 28 | [Apply ↗](https://coawp.com/go/998a8ce4-766e-4659-8b16-9542aa9cb1a3?from=github-all) |
@@ -1786,7 +1797,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Mining Systems, Co-op | Logan Lake, BC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/c0010592-642f-4ef6-ad99-7f6ca4b94cc3?from=github-all) |
 | ↳ | Structural Geology, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/2ea2fc88-5245-4a4b-9c12-57febdaf3f50?from=github-all) |
 | **CIMA+** | Technician, Civil, Electrical or Telecom Engineering, Intern<br><sub>Requires French</sub> | Laval, QC | — | Sep 23 | [Apply ↗](https://coawp.com/go/4d2c02c5-0fe0-46a5-bd3d-e43ef06535fc?from=github-all) |
-| **Geotab** | Corporate Compliance, Intern | Oakville, ON | Winter 2027<br><sub>12 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/be1e9eef-cc3b-44d5-9e78-2048e5e27fde?from=github-all) |
 | **Parrish & Heimbecker** | Operations, Intern | Manitoba | 4 months | Sep 23 | [Apply ↗](https://coawp.com/go/33510dbf-34a9-4765-a572-bd6b4efd7705?from=github-all) |
 | **Fleetway** | Security Analyst, Co-op | Saint John, NB | Winter 2027 | Sep 23 | [Apply ↗](https://coawp.com/go/41f9c3d3-a88b-4a04-b70b-23a55a4e7cf3?from=github-all) |
 | **J.D. Irving** | Security Analyst, Co-op | Saint John, NB | Winter 2027 | Sep 23 | [Apply ↗](https://coawp.com/go/5eb9033f-1139-4ed0-9648-4108b666c890?from=github-all) |
