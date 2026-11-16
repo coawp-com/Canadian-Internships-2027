@@ -4,6 +4,8 @@
 
 **1,978 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
+If this list helps, star it so you can find it again and other students can find it too.
+
 > [!TIP]
 > Find yours faster on **[coawp.com](https://coawp.com/?near=6167865&radius=country&utm_source=github&utm_medium=readme&utm_campaign=all)**. Filter by major, city and term, see the skills each role asks for, and get new roles by email every morning.
 
@@ -14,6 +16,8 @@
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 474 | 57 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 213 | 32 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 134 | 20 |
+
+Building something? Every role here is in [listings.json](listings.json), rewritten every 2 hours. Use it freely, with a link back to [coawp.com](https://coawp.com).
 
 ## All roles
 
@@ -2004,4 +2008,4 @@
 
 ---
 
-<sub>Every role here is read from the employer's own job board by <a href="https://coawp.com/?utm_source=github&utm_medium=readme&utm_campaign=all">coawp.com</a>, and this page is rewritten every 2 hours. Apply takes you to the employer's own posting. Spotted a closed role or a mistake? <a href="https://github.com/coawp-com/Canadian-Internships-2027/issues/new/choose">Report it</a>. Building something? Every role is in <a href="listings.json">listings.json</a>.</sub>
+<sub>Every role here is read from the employer's own job board by <a href="https://coawp.com/?utm_source=github&utm_medium=readme&utm_campaign=all">coawp.com</a>, and this page is rewritten every 2 hours. Apply takes you to the employer's own posting. Spotted a closed role or a mistake? <a href="https://github.com/coawp-com/Canadian-Internships-2027/issues/new/choose">Report it</a>. Building something? Every role is in <a href="listings.json">listings.json</a>, free to use with a link back to coawp.com.</sub>
