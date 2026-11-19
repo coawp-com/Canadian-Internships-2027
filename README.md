@@ -13,9 +13,9 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 471 | 39 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 576 | 47 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 498 | 52 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 497 | 52 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 219 | 31 |
-| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 151 | 19 |
+| [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 152 | 20 |
 
 Building something? Every role here is in [listings.json](listings.json), rewritten every 2 hours. Use it freely, with a link back to [coawp.com](https://coawp.com).
 
@@ -26,6 +26,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Workstream** | Full Stack Engineer, Co-op | Vancouver, BC | — | Nov 18 | [Apply ↗](https://coawp.com/go/56c9618b-ca79-4040-9a6e-09a43e2f2a30?from=github-all) |
+| **St. Joseph's Healthcare Hamilton** | Clinical Extern – Acute MH, Intern | Hamilton, ON | 6 months | Nov 18 | [Apply ↗](https://coawp.com/go/6f362357-9239-4385-9f6b-82e6feb63eff?from=github-all) |
 | **Definity** | Technology Strategy, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 18 | [Apply ↗](https://coawp.com/go/87fd0582-dea1-4b47-9bc1-7b1dcee6c2de?from=github-all) |
 | **Roblox** | Software Engineer – Engine, Intern | Vancouver, BC | Summer 2027 | Nov 18 | [Apply ↗](https://coawp.com/go/e099322b-a014-4655-b6ec-7af9004f9e2f?from=github-all) |
 | **Fleetway** | OJT Electrical, Intern | Prince Edward Island | — | Nov 18 | [Apply ↗](https://coawp.com/go/5637e0a3-7623-432a-86f5-46aed8214022?from=github-all) |
@@ -1123,7 +1124,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Display Systems Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/ff4fb597-b084-4add-a172-70197c0b626e?from=github-all) |
 | **Raymond Chabot Grant Thornton** | Restructuring and Insolvency, Intern | Quebec | — | Oct 20 | [Apply ↗](https://coawp.com/go/ae59fedb-69aa-4bc5-a3af-4adabeed5bc7?from=github-all) |
 | **Rockwell Automation** | Delivery – Projects, Co-op | Cambridge, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/bc59516f-8d9d-4190-8c78-7bfe9592628c?from=github-all) |
-| **RSM Canada** | D365 Business Central Consulting, Intern | Vancouver, BC | Summer 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/9c53b541-a17f-440c-a1e4-c9aea922f663?from=github-all) |
 | **Scotiabank** | Administration & Support – Canadian Banking, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/aeed298b-a7fe-4bcb-9341-e472d075bb68?from=github-all) |
 | **TransAlta** | Dam Safety Engineering, Intern | Calgary, AB | 12 or 16 months | Oct 20 | [Apply ↗](https://coawp.com/go/847fc955-eaa0-4ccf-a164-fcc4a011f6f1?from=github-all) |
 | **Volvo Group (Nova Bus, Prevost, Volvo Trucks Canada)** | Law, Intern<br><sub>Requires French</sub> | Sainte-Claire, QC | Winter 2027 | Oct 20 | [Apply ↗](https://coawp.com/go/999a6e62-756c-42da-a11e-27a7e4276bb3?from=github-all) |
