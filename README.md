@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**2,006 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**2,003 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,9 +11,9 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 472 | 40 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 471 | 39 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 576 | 47 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 500 | 53 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 498 | 52 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 219 | 31 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 151 | 19 |
 
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>2,006 open roles, newest first</sub>
+<sub>2,003 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -59,7 +59,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Precision Technology Summer Associate | Saskatoon, SK | Summer 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/d5cb515b-87ff-42fc-8eb4-67d5f330f42f?from=github-all) |
 | **BlackBerry** | Product Management, Intern | Ottawa, ON | 8 months | Nov 17 | [Apply ↗](https://coawp.com/go/c1cd038f-2fe6-4f56-8ed4-16604a753d51?from=github-all) |
 | **BMO** | Architecture Design, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/db5ced82-ee8d-403a-804d-e4a3abea0d22?from=github-all) |
-| ↳ | Business Analyst, Co-op | Toronto, ON | Winter 2027<br><sub>8 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/2c301129-2e7b-41fd-8fe6-5e84aa21e128?from=github-all) |
 | **City of London** | Environmental Compliance, Intern | London, ON | Winter 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/5c3e821c-9485-45f7-ab2b-f87840e479e6?from=github-all) |
 | **Kiewit** | Equipment Planner, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/abc45a56-25b2-4ea1-b752-6dd565d6670b?from=github-all) |
 | **Kinectrics** | Engineering – Inspection & Maintenance Systems, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/c9c52a22-9d1d-4660-a71b-642ea51445c8?from=github-all) |
@@ -184,7 +183,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Nutrien** | Mine Planning, Co-op | Saskatchewan | — | Nov 15 | [Apply ↗](https://coawp.com/go/3f396ff3-63a3-4e52-9a89-bdfe0a310480?from=github-all) |
 | **Oak Valley Health** | Diet Office Clerk (CUPE) – Food Services, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/17b033f3-5515-466e-ae8a-908035423e7b?from=github-all) |
 | ↳ | Unit Secretary – Rehabilitation/​Integrated Stroke, Student | Markham, ON | — | Nov 15 | [Apply ↗](https://coawp.com/go/9414dcad-a1c2-44d2-86b0-5e9251242648?from=github-all) |
-| **RBC** | Wealth Management Administrative Assistant, Intern | Montréal, QC | Winter 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/034d1baf-c411-4669-a80e-769a26718817?from=github-all) |
 | **Region of Waterloo** | Water Efficiency, Intern | Kitchener, ON | Summer 2027<br><sub>4 months</sub> | Nov 15 | [Apply ↗](https://coawp.com/go/e079f28b-4a5b-4003-a64c-f4c40ab3f87c?from=github-all) |
 | **Saputo** | Automation & Operational Technology, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC<br><sub>Hybrid</sub> | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/4545e07c-6a59-4637-b7da-cb7353b2dddb?from=github-all) |
 | ↳ | Dairy Specialist, Intern | Port Coquitlam, BC | Summer 2027 | Nov 15 | [Apply ↗](https://coawp.com/go/310ba023-9a02-4392-98bb-b1ad938f0b7a?from=github-all) |
@@ -605,7 +603,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Federated Co-op Retail** | Agronomy Sales, Co-op | Saskatchewan | — | Nov 4 | [Apply ↗](https://coawp.com/go/019fbd94-2344-45b0-90cc-63fa0ac2e5aa?from=github-all) |
 | ↳ | Agronomist, Co-op | Melfort, SK | — | Nov 4 | [Apply ↗](https://coawp.com/go/8c25d37e-9d72-47ee-892e-a44859bbedd6?from=github-all) |
 | **Cyclic Materials** | Analytical Lab, Intern | Kingston, ON | 12 months | Nov 4 | [Apply ↗](https://coawp.com/go/a9c03342-285a-4e19-822b-b47370dec6dd?from=github-all) |
-| **Federated Co-op Retail** | Senior HR Business Partner – Local Co-ops, Co-op | Regina, SK<br>Saskatoon, SK<br><sub>Remote</sub> | — | Nov 4 | [Apply ↗](https://coawp.com/go/e803bdd4-3d1d-41e4-9495-bec5f47d57cf?from=github-all) |
 | **Fleetway** | Human Resources, Co-op | Sussex, NB<br>Saint John, NB | Summer 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/99cadf54-715f-4d5a-8adb-51978768dae4?from=github-all) |
 | **J.D. Irving** | Human Resources, Co-op | Sussex, NB<br>Saint John, NB | Summer 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/64658cee-2ccc-4fab-a021-5c8558731ff8?from=github-all) |
 | **Honeywell Aerospace** | Bachelors Systems Eng, Intern | Mississauga, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/778cf781-8d10-45f5-9054-8ea27b2e72b9?from=github-all) |
