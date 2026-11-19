@@ -732,9 +732,9 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Qualcomm** | Deep Learning Research, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/72d5e7e1-5309-4d74-b5c7-b6cb000eccfb?from=github-all) |
 | ↳ | Design Verification Engineering, Intern | Toronto, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/fa71257f-ad26-4c4e-9f62-5c34750f0f96?from=github-all) |
 | ↳ | SoC Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/5cfa5ebb-15f6-4efd-9801-8af0ed2acc4c?from=github-all) |
-| **Richardson International** | Agribusiness, Intern | Manitoba<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/90b6a14d-c00c-4588-a700-50f85caa5b83?from=github-all) |
-| ↳ | Agribusiness, Intern | Alberta<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/1cf96843-2994-4245-a099-f352838b58c0?from=github-all) |
+| **Richardson International** | Agribusiness, Intern | Alberta<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/1cf96843-2994-4245-a099-f352838b58c0?from=github-all) |
 | ↳ | Agribusiness, Intern | Saskatoon, SK<br>Foam Lake, SK<br><sub>+8 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/0101bbaf-098d-4026-90ec-26bad82df234?from=github-all) |
+| ↳ | Agribusiness, Intern | Manitoba<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/90b6a14d-c00c-4588-a700-50f85caa5b83?from=github-all) |
 | **Ryan** | Customs Duty, Intern | Mississauga, ON | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/563652c0-45e4-4293-92e5-adab82268540?from=github-all) |
 | ↳ | International Income Tax, Intern | Winnipeg, MB | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/fabd71c2-5daf-4d39-879e-6dadbf71b43d?from=github-all) |
 | **Scotiabank** | ASPIRE Commercial Banking – Agriculture, Co-op | Calgary, AB | Summer 2027<br><sub>4 or 8 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/0e198242-8a21-40f8-9840-bc71039f2125?from=github-all) |
