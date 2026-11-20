@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,979 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,978 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 467 | 43 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 466 | 43 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 573 | 59 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 491 | 69 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 210 | 34 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,979 open roles, newest first</sub>
+<sub>1,978 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -1988,7 +1988,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Software Developer, Intern | Montréal, QC | — | Jul 13 | [Apply ↗](https://coawp.com/go/db58430d-dcdc-432d-a3c7-a6b0a6d8414c?from=github-all) |
 | **Government of New Brunswick** | Local Teaching Permit Application, Student | Fredericton, NB<br>Oromocto, NB<br><sub>+1 more</sub> | — | Jul 12 | [Apply ↗](https://coawp.com/go/b60cce00-2000-4d90-a67c-e5fcc2eb327f?from=github-all) |
 | **Multimatic** | Welding Support, Co-op | East Gwillimbury, ON | — | Jul 9 | [Apply ↗](https://coawp.com/go/a330a2dd-fec5-4a04-a907-1338f4dea2d0?from=github-all) |
-| **GeoComply** | Browser Security Engineer, Intern | Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Jul 9 | [Apply ↗](https://coawp.com/go/9a73044d-4d3f-41a9-95f3-cbc5f77cc89e?from=github-all) |
 | **Musqueam Indian Band** | IT, Intern | Vancouver, BC | — | Jul 7 | [Apply ↗](https://coawp.com/go/946e8999-bc73-4f09-8f5a-c87d94929ed7?from=github-all) |
 | **Oak Valley Health** | Grounds Assistant (CUPE), Facilities and Corporate Services - Full Time - Markham Stouffville Hospital | Markham, ON | — | Jul 5 | [Apply ↗](https://coawp.com/go/4ca0df44-4215-4faf-8b66-4fceb71e66ce?from=github-all) |
 | **Walmart** | Pharmacy, Intern | Marystown, NL | — | Jul 2 | [Apply ↗](https://coawp.com/go/197b5b39-07c3-4daf-b6c5-33d3bf02f632?from=github-all) |
