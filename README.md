@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,958 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,959 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 461 | 40 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 462 | 40 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 573 | 59 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 488 | 68 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 201 | 31 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,958 open roles, newest first</sub>
+<sub>1,959 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -522,6 +522,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Accountant – Assurance and Accounting, Co-op | Mount Forest, ON | Summer 2027 | Nov 6 | [Apply ↗](https://coawp.com/go/78635685-7427-4ff5-b012-344876e75f6f?from=github-all) |
 | ↳ | Accountant – Assurance and Accounting, Co-op | Ontario | Summer 2027 | Nov 6 | [Apply ↗](https://coawp.com/go/adb60b89-07b2-4242-8249-3857184b4763?from=github-all) |
 | **Federated Co-op Retail** | Gas Bar Clerk, Student | Shellbrook, SK | — | Nov 6 | [Apply ↗](https://coawp.com/go/50e8a047-25d1-4375-85e2-06047f5474c5?from=github-all) |
+| **Nokia** | Service Router Test, Intern | Canada | Winter 2027<br><sub>4 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/7dab3692-253f-4fe3-87a6-cc4e85d3e09e?from=github-all) |
 | **Info-Tech Research Group** | Business Development Representative, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/bfb39ca5-b6ec-40a6-8b2f-9a2b1e0be907?from=github-all) |
 | ↳ | Business Development Representative, Intern | London, ON | Summer 2027<br><sub>4 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/7b7e5bc6-8a1e-46ed-a598-6dc9f7f65257?from=github-all) |
 | **Fleetway** | Finance, Co-op | Saint John, NB | Summer 2027 | Nov 6 | [Apply ↗](https://coawp.com/go/a0da4f5c-a223-4822-85bf-2fd4f27dd347?from=github-all) |
