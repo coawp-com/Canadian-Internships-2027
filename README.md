@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,954 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,953 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 447 | 46 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 446 | 45 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 65 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 489 | 79 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 206 | 36 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,954 open roles, newest first</sub>
+<sub>1,953 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -32,8 +32,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **MDA Space** | Test Procedures Engineering, Intern | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/9b4e6c6d-d41a-4101-a85f-2921260225c3?from=github-all) |
 | **GHD** | Environmental Engineering, Co-op | Vancouver, BC<br>Calgary, AB | Winter 2027<br><sub>8 or 12 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/834a02b4-9d39-4850-b990-d687ae523c80?from=github-all) |
 | **AECOM** | Transportation Engineering, Intern | Winnipeg, MB | Summer 2027<br><sub>4 or 6 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/75fff21f-a0ac-4cdb-8375-d265abd5dba6?from=github-all) |
-| **AON3D** | Software Developer, Intern | Montréal, QC | Winter 2027 | Nov 20 | [Apply ↗](https://coawp.com/go/f1cecd26-bf45-410c-9292-0ab0906d7b28?from=github-all) |
-| ↳ | Mechanical Designer, Intern | Montréal, QC | Winter 2027 | Nov 20 | [Apply ↗](https://coawp.com/go/31090b52-96e5-4cf3-882a-f6288f4a9ad5?from=github-all) |
+| **AON3D** | Mechanical Designer, Intern | Montréal, QC | Winter 2027 | Nov 20 | [Apply ↗](https://coawp.com/go/31090b52-96e5-4cf3-882a-f6288f4a9ad5?from=github-all) |
 | **Calgary Airport Authority** | Spatial Data (GIS), Co-op | Calgary, AB | Winter 2027<br><sub>6 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/ee74886b-2e39-43b9-baf5-ea018c4fdee7?from=github-all) |
 | **Mackenzie Investments** | AI Program, Intern | Ontario | Winter 2027<br><sub>9 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/54a1b869-7db2-46c7-a1b9-b6e9fcca11d0?from=github-all) |
 | **ABB** | Quality, Intern | Saint-Laurent, QC | Winter 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/1dea01ec-a534-408f-9248-e0ed4eaa87f4?from=github-all) |
