@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,937 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,938 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 444 | 45 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 573 | 65 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 65 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 485 | 79 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 202 | 36 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 141 | 25 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,937 open roles, newest first</sub>
+<sub>1,938 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -876,6 +876,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Hardware Characterization Automation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/4f8ea9a9-9cea-4c4f-9a98-62e16a9433f8?from=github-all) |
 | **Fengate** | Commercial/​Residential Asset Management, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/ea6d1286-1008-467f-8e6a-b4bad09cb088?from=github-all) |
 | ↳ | Infrastructure Finance, Intern | Oakville, ON<br><sub>Hybrid</sub> | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/67ca412a-3f43-4e65-bf57-12eed651e2fe?from=github-all) |
+| **Gibson Energy** | Operations, Intern | Alberta | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/307ea18a-19ab-4e39-80e4-3fdc59e1de89?from=github-all) |
 | **Hatch** | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/91ebb8c0-b6bd-4051-8d26-5e8d633b81b5?from=github-all) |
 | ↳ | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/c4d248c1-d9e3-41cb-9f7e-1c241a65ec6a?from=github-all) |
 | ↳ | Networking, Intern | Montréal, QC | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/dff1c563-ca7a-45eb-a4b8-3c8a355a573f?from=github-all) |
