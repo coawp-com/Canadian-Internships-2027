@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,931 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,930 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -14,14 +14,14 @@ If this list helps, star it so you can find it again and other students can find
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 443 | 45 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 66 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 482 | 79 |
-| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 199 | 36 |
+| [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 198 | 36 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 141 | 25 |
 
 Building something? Every role here is in [listings.json](listings.json), rewritten every 2 hours. Use it freely, with a link back to [coawp.com](https://coawp.com).
 
 ## All roles
 
-<sub>1,931 open roles, newest first</sub>
+<sub>1,930 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -785,7 +785,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Agribusiness, Intern | Saskatoon, SK<br>Foam Lake, SK<br><sub>+8 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/0101bbaf-098d-4026-90ec-26bad82df234?from=github-all) |
 | **Ryan** | Customs Duty, Intern | Mississauga, ON | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/563652c0-45e4-4293-92e5-adab82268540?from=github-all) |
 | ↳ | International Income Tax, Intern | Winnipeg, MB | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/fabd71c2-5daf-4d39-879e-6dadbf71b43d?from=github-all) |
-| **Scotiabank** | Corporate Banking – Credit Analytics Group (CAG), Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/4b02d327-57b3-46a9-afd8-b9115e9377b3?from=github-all) |
 | **TMX Group** | Talent Acquisition, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/b5bf5165-aef8-4ad1-b821-876e86fe2b58?from=github-all) |
 | **Walmart** | Retail Pharmacy, Student | St. John's, NL | — | Nov 1 | [Apply ↗](https://coawp.com/go/00fcbef8-5e9b-455e-ae19-8f3f5f5baa02?from=github-all) |
 | ↳ | Retail Pharmacy, Student | St. John's, NL | — | Nov 1 | [Apply ↗](https://coawp.com/go/3ad67ece-59a3-4752-96bc-9af9240d8c15?from=github-all) |
