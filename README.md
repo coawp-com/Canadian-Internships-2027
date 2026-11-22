@@ -13,7 +13,7 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 440 | 40 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 58 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 481 | 68 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 481 | 69 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 196 | 30 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 140 | 22 |
 
@@ -26,6 +26,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Aecon** | Project Controls, Co-op | Pickering, ON | Winter 2027<br><sub>8 or 16 months</sub> | Nov 21 | [Apply ↗](https://coawp.com/go/ffb9d671-1ff1-4751-ad4b-cf81ac019ea4?from=github-all) |
+| **Cintas** | Intern | Montréal, QC | — | Nov 21 | [Apply ↗](https://coawp.com/go/8ea80a86-529e-4312-9a63-71c77df0d24a?from=github-all) |
 | **Kinectrics** | Electrical Engineering, Co-op | Toronto, ON | Winter 2027<br><sub>12 or 16 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/7d52c660-12c2-454f-81e2-9e495c51c3d0?from=github-all) |
 | **Hootsuite** | Accounting, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/403f62e4-243c-49d8-9d9d-0873b00b24d5?from=github-all) |
 | **Mark Anthony Group** | Quality Systems Technician, Co-op | Vancouver, BC | — | Nov 20 | [Apply ↗](https://coawp.com/go/8b1a999a-7cd1-4751-b686-d8f9a09d69ce?from=github-all) |
@@ -980,8 +981,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Cargill** | Crop Inputs, Intern | Rosetown, SK | Summer 2027<br><sub>4 months</sub> | Oct 24 | [Apply ↗](https://coawp.com/go/ebcb9dd0-9fdc-4237-a644-9a890df26321?from=github-all) |
 | **City of Ottawa** | Emergency Medical Dispatch Agent – Communications, Intern<br><sub>Requires French</sub> | Ottawa, ON | — | Oct 23 | [Apply ↗](https://coawp.com/go/321d98d3-6d07-4fd3-be73-0950ff470932?from=github-all) |
 | **Acuity Brands** | Firmware Development, Intern | Brossard, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/fd02b3d7-300d-4f44-872f-e901d35b1b09?from=github-all) |
-| **Cintas** | Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/8ea80a86-529e-4312-9a63-71c77df0d24a?from=github-all) |
-| ↳ | Trainee, Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/238c4ea3-da7b-4ab0-99ca-4e15060b5fbd?from=github-all) |
+| **Cintas** | Trainee, Intern | Montréal, QC | — | Oct 23 | [Apply ↗](https://coawp.com/go/238c4ea3-da7b-4ab0-99ca-4e15060b5fbd?from=github-all) |
 | **Boson AI** | MScAC, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/eee4cd82-c903-4d5c-87a2-7a38610df3e5?from=github-all) |
 | **Beedie** | Corporate Accounting, Co-op | Burnaby, BC | Winter 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/e59701ad-1d7c-49b6-8031-22316ae32243?from=github-all) |
 | **StandardAero** | Engineering – Quality, Intern | Winnipeg, MB | 4 months | Oct 23 | [Apply ↗](https://coawp.com/go/235549e5-260a-47b9-8379-10b01ca02629?from=github-all) |
