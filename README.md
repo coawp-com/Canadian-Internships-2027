@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,916 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,915 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 435 | 30 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 45 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 573 | 44 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 480 | 52 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 196 | 23 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 140 | 16 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,916 open roles, newest first</sub>
+<sub>1,915 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -44,7 +44,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Aecon** | Project Coordinator, Co-op | Toronto, ON | 8 months | Nov 19 | [Apply ↗](https://coawp.com/go/5393cdcb-3e88-44b5-8a64-80a078f51220?from=github-all) |
 | **Agropur** | Shipper, Student | Toronto, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/a0ce4a74-dea6-4c23-bbaa-f7b75d0d1519?from=github-all) |
 | **BDO Canada** | Business Analysis & Quality Assurance, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/1818ff10-04e0-4e3a-a512-4f890dbbc461?from=github-all) |
-| **BlackBerry** | Hardware Engineering – Radar, Intern | Waterloo, ON | 4 or 8 months | Nov 19 | [Apply ↗](https://coawp.com/go/6e84e534-cc9b-4b99-9b7d-8f75b7e0336f?from=github-all) |
 | **BMO** | Quantitative Developer – Alpha Research Team, Co-op | Toronto, ON | Summer 2027<br><sub>12 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/10e6ba00-3049-4639-b61e-96abfc83dd0b?from=github-all) |
 | ↳ | Tax Specialist, Co-op | Ontario<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/8099c74d-e4f9-4cae-9043-55100bf22d78?from=github-all) |
 | **Cintas** | Intern | Mississauga, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/3644dff5-3453-4093-993c-2acbdbfc430c?from=github-all) |
