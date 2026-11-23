@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,898 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,899 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 431 | 29 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 432 | 30 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 571 | 44 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 471 | 51 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 192 | 23 |
@@ -21,10 +21,11 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,898 open roles, newest first</sub>
+<sub>1,899 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Honeywell Aerospace** | Program Control – PC Analyst, Intern | Mississauga, ON<br><sub>Hybrid</sub> | — | Nov 23 | [Apply ↗](https://coawp.com/go/0f1b08c9-4fcb-4469-9cf1-c9de384773e5?from=github-all) |
 | **ATCO** | Indigenous Program, Intern | Calgary, AB<br>Edmonton, AB<br><sub>+12 more</sub> | Summer 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/b1e1fce8-3692-463b-8735-a81c545f60df?from=github-all) |
 | **Aecon** | Project Controls, Co-op | Pickering, ON | Winter 2027<br><sub>8 or 16 months</sub> | Nov 21 | [Apply ↗](https://coawp.com/go/ffb9d671-1ff1-4751-ad4b-cf81ac019ea4?from=github-all) |
 | **Cintas** | Intern | Montréal, QC | — | Nov 21 | [Apply ↗](https://coawp.com/go/8ea80a86-529e-4312-9a63-71c77df0d24a?from=github-all) |
