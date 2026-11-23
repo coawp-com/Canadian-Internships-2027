@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,899 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,897 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -13,7 +13,7 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 432 | 30 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 571 | 44 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 471 | 51 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 469 | 51 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 192 | 23 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 140 | 16 |
 
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,899 open roles, newest first</sub>
+<sub>1,897 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -481,8 +481,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Kensington Tours** | Marketing – Web, Intern | Toronto, ON | — | Nov 9 | [Apply ↗](https://coawp.com/go/f9b8ddaa-d1f7-4522-ae82-6eec9af646e4?from=github-all) |
 | **Fleetway** | Engineering, Co-op | Sussex, NB<br>Chipman, NB<br><sub>+2 more</sub> | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/90f2822f-558b-4f72-b14d-a0deb0fb05ab?from=github-all) |
 | **J.D. Irving** | Engineering, Co-op | Sussex, NB<br>Chipman, NB<br><sub>+2 more</sub> | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/288de62c-51d6-410a-8a2d-2e5b494f21c8?from=github-all) |
-| **Fleetway** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/b001d197-e48c-42f8-9eaf-9164ee018591?from=github-all) |
-| **J.D. Irving** | Communications, Intern | Saint John, NB | Summer 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/054a76a9-886b-4de3-b008-fd4b19444baf?from=github-all) |
 | **Enterprise Mobility Canada** | Management Trainee, Intern | Lethbridge, AB | Summer 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/0aa5ed64-f60c-48c9-afe5-8dc695ade6fb?from=github-all) |
 | **PepsiCo** | Supply Chain, Co-op | Bedford, NS | Winter 2027 | Nov 9 | [Apply ↗](https://coawp.com/go/ccee515d-954e-4a65-b2a4-2c9af21b09b4?from=github-all) |
 | **Stantec** | Geomatics, Co-op | Ottawa, ON<br>Waterloo, ON<br><sub>+1 more</sub> | Summer 2027 | Nov 8 | [Apply ↗](https://coawp.com/go/ab57b4b3-29be-4b3e-b387-8da47887238c?from=github-all) |
