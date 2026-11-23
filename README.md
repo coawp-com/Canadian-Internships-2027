@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,920 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,916 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,9 +11,9 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 437 | 31 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 435 | 30 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 45 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 481 | 52 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 480 | 52 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 196 | 23 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 140 | 16 |
 
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,920 open roles, newest first</sub>
+<sub>1,916 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -187,7 +187,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Scotiabank** | Global Analytic Financial Engineering (GAFE), Intern | Toronto, ON | Summer 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/f2c7c6f2-9cfd-4514-845b-f9e3b6a6ed12?from=github-all) |
 | **SOTI** | Software Developer, Intern | Mississauga, ON | Summer 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/6679bfdf-4ad6-4385-a3e8-1f889a607f90?from=github-all) |
 | **Spartan Controls** | Accounting, Co-op | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/db8143f3-1b3d-403b-ab94-095308332e37?from=github-all) |
-| **Sun Life** | Associate Front-End Developer, Intern | York, AB<br>King, ON | Winter 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/921e565a-baa6-4619-ada1-ca4ad49b70fb?from=github-all) |
 | **Vanderlande** | Integration, Co-op | Vancouver, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/6570c744-e5ca-4b07-aa5b-f7b607482936?from=github-all) |
 | **Varian (Siemens Healthineers)** | Customer Care Coordinator, Intern<br><sub>Requires French</sub> | Canada<br><sub>Hybrid</sub> | 12 months | Nov 17 | [Apply ↗](https://coawp.com/go/c3376677-1195-45c7-aee5-6fafe4c7fa9e?from=github-all) |
 | **Kabam** | People Operations and Payroll, Co-op | Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/6cc3f6ef-bf69-4305-9cdf-3dd6bc49bb00?from=github-all) |
@@ -241,8 +240,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Stantec** | CAD – Water, Co-op | Winnipeg, MB | Summer 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/4815af9d-efce-48b9-816f-df4ac2703597?from=github-all) |
 | **KPMG** | Consulting, Operations – Government Solutions, Co-op | Edmonton, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/3f41dc8c-cc7d-4c3f-998f-ce62e8629913?from=github-all) |
 | ↳ | Consulting, Co-op | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/b27531fa-1a2d-4155-aabe-88c9fac40a7c?from=github-all) |
-| **County of Lambton** | Library Page, Student | Ontario | — | Nov 16 | [Apply ↗](https://coawp.com/go/f9166c3b-bbe2-4997-bd45-9e0a12d16977?from=github-all) |
-| **KPMG** | Consultant, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/4048ffee-dd4b-49e8-8e3f-708c6802acac?from=github-all) |
+| ↳ | Consultant, Co-op | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/4048ffee-dd4b-49e8-8e3f-708c6802acac?from=github-all) |
 | ↳ | Opportunities in Audit, Co-op | Hamilton, ON<br>Oakville, ON | Fall 2027 | Nov 16 | [Apply ↗](https://coawp.com/go/3ec2b75b-0944-46bc-8acf-d8174612bc72?from=github-all) |
 | **Microsoft** | Solution Engineering, Intern | Toronto, ON | — | Nov 16 | [Apply ↗](https://coawp.com/go/d47e64aa-43f8-4fb7-b784-9f1b6f196b56?from=github-all) |
 | ↳ | Technology Sales, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 16 | [Apply ↗](https://coawp.com/go/a115b1af-e65f-48eb-b229-09aaaf018b4d?from=github-all) |
@@ -598,7 +596,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Taxation, Intern<br><sub>Requires French</sub> | Sainte-Foy, QC | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/2df08b95-8528-4405-9351-b3c69dccf4ac?from=github-all) |
 | **Walmart** | Pharmacy, Intern | Saskatoon, SK | — | Nov 5 | [Apply ↗](https://coawp.com/go/e46e3613-fd96-487e-a989-a13cadd6e960?from=github-all) |
 | ↳ | Retail Pharmacy, Student | Canada | — | Nov 5 | [Apply ↗](https://coawp.com/go/04fba49a-05b6-465d-82c7-3af2a2635fca?from=github-all) |
-| **Zaber Technologies** | UX/​UI Designer, Co-op | Vancouver, BC | Winter 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/4e35c1eb-8968-4f68-9691-1ff78c9ed470?from=github-all) |
 | **Stripe** | Product Design, Intern | Toronto, ON | Summer 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/dcca3e7a-5af2-4d90-b333-eb7f804b3966?from=github-all) |
 | **Mawer Investment Management** | AI Orchestrator, Intern | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/6d9f6e9b-6998-492f-b0a1-b029f34ff770?from=github-all) |
 | ↳ | AI Engineer, Intern | Calgary, AB | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/2fcb51e3-a8db-4910-ac56-884ebcbd835b?from=github-all) |
@@ -664,8 +661,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Fleetway** | Human Resources, Co-op | Sussex, NB<br>Saint John, NB | Summer 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/99cadf54-715f-4d5a-8adb-51978768dae4?from=github-all) |
 | **J.D. Irving** | Human Resources, Co-op | Sussex, NB<br>Saint John, NB | Summer 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/64658cee-2ccc-4fab-a021-5c8558731ff8?from=github-all) |
 | **Honeywell Aerospace** | Bachelors Systems Eng, Intern | Mississauga, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/778cf781-8d10-45f5-9054-8ea27b2e72b9?from=github-all) |
-| **Federated Co-op Retail** | Assistant Food Store Manager, Co-op | Saskatoon, SK | — | Nov 4 | [Apply ↗](https://coawp.com/go/f648c24b-280d-428e-9670-4229d477389b?from=github-all) |
-| **Honeywell Aerospace** | Materials and Process Engineering, Intern | Mississauga, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/d279618f-4825-4bbf-8dfe-ac42aee3e791?from=github-all) |
+| ↳ | Materials and Process Engineering, Intern | Mississauga, ON | — | Nov 4 | [Apply ↗](https://coawp.com/go/d279618f-4825-4bbf-8dfe-ac42aee3e791?from=github-all) |
 | **Ocean Capital Holdings** | Engineering, Co-op | Saint John, NB | Winter 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/d0e5f1fd-32f3-4095-884a-c3741def9952?from=github-all) |
 | **OSCO Construction Group** | Engineering, Co-op | Saint John, NB | Winter 2027 | Nov 4 | [Apply ↗](https://coawp.com/go/c9e7df0b-08e8-418d-8979-5c05fbec286e?from=github-all) |
 | **ACCES Employment** | Integrated Employment Services, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Nov 4 | [Apply ↗](https://coawp.com/go/cc841ca0-a177-4597-83de-5c1822d02e76?from=github-all) |
