@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,887 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,886 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 420 | 34 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 419 | 34 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 574 | 50 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 472 | 57 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 191 | 20 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,887 open roles, newest first</sub>
+<sub>1,886 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -505,7 +505,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Cargill** | Crop Inputs Summer Student | Alberta | — | Nov 9 | [Apply ↗](https://coawp.com/go/ca6339da-13c5-4939-91d4-359b9946ea56?from=github-all) |
 | **CDPQ Infra** | Construction, Intern | Montréal, QC | — | Nov 9 | [Apply ↗](https://coawp.com/go/39463ef5-1e46-47b1-9e49-5704b0d2b58f?from=github-all) |
 | **Clark Builders** | Accounting, Intern | Edmonton, AB | Winter 2027<br><sub>8 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/58a9efd4-1727-4fc7-879f-91d7a200b2ac?from=github-all) |
-| **Clio** | Project Coordinator, Co-op | Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/286d09d9-3c98-4ed3-a976-48d0a31c534f?from=github-all) |
 | **Ecolab** | Electrical Engineering, Co-op | Calgary, AB | — | Nov 9 | [Apply ↗](https://coawp.com/go/dff01532-b958-4d82-9965-635c365c6345?from=github-all) |
 | **Hatch** | Estimating, Intern | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/4e97dd63-cf32-4105-8189-b2ce13d3fdbb?from=github-all) |
 | **Hitachi** | Signalling Design, Intern | Burnaby, BC<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 or 12 months</sub> | Nov 9 | [Apply ↗](https://coawp.com/go/416bd011-627c-4536-837c-6e3c26fb593a?from=github-all) |
