@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,898 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,897 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 421 | 34 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 577 | 48 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 576 | 48 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 475 | 58 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 194 | 20 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 137 | 15 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,898 open roles, newest first</sub>
+<sub>1,897 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -793,7 +793,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Retail Field – Agronomy Assistant, Intern | Vegreville, AB | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/04c41147-acbb-485a-8d61-4e1be8a84312?from=github-all) |
 | **Oak Valley Health** | Registered Practical Nurse – Medicine Unit, Student | Markham, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/06830c58-99d2-409f-97be-278be9b5139c?from=github-all) |
 | **Qualcomm** | Deep Learning Research, Intern | Markham, ON | Summer 2027<br><sub>4 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/72d5e7e1-5309-4d74-b5c7-b6cb000eccfb?from=github-all) |
-| ↳ | Design Verification Engineering, Intern | Toronto, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/fa71257f-ad26-4c4e-9f62-5c34750f0f96?from=github-all) |
 | ↳ | SoC Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/5cfa5ebb-15f6-4efd-9801-8af0ed2acc4c?from=github-all) |
 | **Richardson International** | Agribusiness, Intern | Alberta<br>Canada<br><sub>+3 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/1cf96843-2994-4245-a099-f352838b58c0?from=github-all) |
 | ↳ | Agribusiness, Intern | Saskatoon, SK<br>Foam Lake, SK<br><sub>+8 more</sub> | — | Nov 1 | [Apply ↗](https://coawp.com/go/0101bbaf-098d-4026-90ec-26bad82df234?from=github-all) |
