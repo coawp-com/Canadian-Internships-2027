@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 413 | 37 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 561 | 51 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 561 | 52 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 465 | 53 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 187 | 19 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 136 | 15 |
@@ -25,6 +25,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Kinectrics** | Engineering – Process Controls, Co-op | Toronto, ON | Winter 2027<br><sub>8 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/5ec03b6d-2a6c-484b-824c-a3aafa0868da?from=github-all) |
 | **Walmart** | Retail Pharmacy, Student | Canada | — | Nov 25 | [Apply ↗](https://coawp.com/go/e8588221-5b5d-47f2-b45b-252b85176ed3?from=github-all) |
 | **AECOM** | Engineering – Airport Projects, Intern | Mississauga, ON | Winter, Summer 2027<br><sub>6 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/38b13c0b-5bef-4c76-8377-eb91aa3e0d6a?from=github-all) |
 | **BFL Canada** | Student-at-Law<br><sub>Requires French</sub> | Montréal, QC | — | Nov 25 | [Apply ↗](https://coawp.com/go/710c7f4d-c1f3-42cb-bccf-c8a98bc24ba5?from=github-all) |
@@ -1028,7 +1029,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **ERCO Worldwide** | Electrical Engineering, Co-op | Mississauga, ON | Summer 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/35165e6f-11a9-4c5f-9959-cf18dc1a257c?from=github-all) |
 | **HarperCollins Canada** | Marketing (Trade), Intern | Toronto, ON | 12 months | Oct 23 | [Apply ↗](https://coawp.com/go/6cfb84e9-c66e-407c-9842-9bdd7b2ebe5a?from=github-all) |
 | **Kinaxis** | Full Stack Developer (C#), Intern | Ottawa, ON | Winter 2027<br><sub>8 or 12 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/48ec87d8-97a2-41ec-bdaf-f3600183c02a?from=github-all) |
-| **FortisBC** | Engineering – Stations, Co-op | Trail, BC | Winter 2027<br><sub>8 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/f9bd0f49-b180-47d7-a914-ddbf7bc1b2f5?from=github-all) |
 | **1milk2sugars** | PR, Intern | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/a1566ed6-e951-4208-916f-54cc6dff6b72?from=github-all) |
 | ↳ | Public Relations, Intern<br><sub>Requires French</sub> | Montréal, QC | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/0b310502-7ee6-4496-bc18-f5e8de904ca2?from=github-all) |
 | ↳ | Social Media (Digital), Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/1c7cadf7-140c-4694-87a8-810787a026e9?from=github-all) |
