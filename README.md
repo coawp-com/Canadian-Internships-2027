@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,871 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,872 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -13,7 +13,7 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 420 | 42 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 566 | 60 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 465 | 70 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 466 | 71 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 190 | 25 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 137 | 18 |
 
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,871 open roles, newest first</sub>
+<sub>1,872 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -53,6 +53,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | INTERN | Whitby, ON | 16 months | Nov 24 | [Apply ↗](https://coawp.com/go/bed35257-506c-4822-a875-9807b59c3f8d?from=github-all) |
 | ↳ | IT, Intern | Whitby, ON | 16 months | Nov 24 | [Apply ↗](https://coawp.com/go/3fdc61de-a0d9-4785-ad00-f9da48cd909a?from=github-all) |
 | **Manulife** | Global WAM Marketing Strategy Operations, Co-op | Toronto, ON | Summer 2027 | Nov 24 | [Apply ↗](https://coawp.com/go/dad3ce9a-6a58-481d-9711-e9586bcd33a6?from=github-all) |
+| **Medtronic** | Marketing – Integrated Marketing Indigenous Stream, Intern | Brampton, ON | Summer 2027<br><sub>4 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/fa4ab4c1-8e8d-40d8-bc69-ca39e5dcd1a3?from=github-all) |
 | **NETINT Technologies** | Accounting, Intern | Burnaby, BC | — | Nov 24 | [Apply ↗](https://coawp.com/go/06ceb2de-a3ec-4bd5-b0b9-648d54a209cc?from=github-all) |
 | **Nutrien** | Mine Engineering, Intern | Saskatchewan | — | Nov 24 | [Apply ↗](https://coawp.com/go/8739fd95-be7e-4cea-836e-475169009328?from=github-all) |
 | ↳ | Mine Planning, Co-op | Saskatchewan | — | Nov 24 | [Apply ↗](https://coawp.com/go/3f396ff3-63a3-4e52-9a89-bdfe0a310480?from=github-all) |
