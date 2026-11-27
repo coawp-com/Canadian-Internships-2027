@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,854 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,851 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -12,7 +12,7 @@ If this list helps, star it so you can find it again and other students can find
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 406 | 43 |
-| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 565 | 64 |
+| [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 562 | 64 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 467 | 60 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 183 | 19 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 138 | 17 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,854 open roles, newest first</sub>
+<sub>1,851 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -1431,7 +1431,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **General Dynamics Mission Systems–Canada** | Engineering Project Coordinator, Co-op | Calgary, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 or 16 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/2384cead-5b3e-4f49-93e3-c6b2639a2794?from=github-all) |
 | **WTW** | Corporate Risk and Broking – Broking Placement, Intern | Toronto, ON<br>Calgary, AB<br><sub>Hybrid, +1 more</sub> | Summer 2027 | Oct 6 | [Apply ↗](https://coawp.com/go/e46b3149-ff65-4009-a822-7c2534b095de?from=github-all) |
 | **Canadian Natural Resources** | Campus Recruitment, Intern | Fort McMurray, AB | Winter 2027<br><sub>12 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/45bdc1fc-cda5-4edc-a9ce-cff8c95194c7?from=github-all) |
-| **General Dynamics Mission Systems–Canada** | Mechanical Engineering, Co-op | Calgary, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/90f74d3d-2d08-4dd0-9e22-cbee10513a69?from=github-all) |
 | **Tenstorrent** | AI Software – Cloud, Infrastructure & Data Centre, Intern | Toronto, ON | — | Oct 6 | [Apply ↗](https://coawp.com/go/667c3388-ade9-4cd8-8094-c117e62f1950?from=github-all) |
 | ↳ | Hardware – AI HW & SoC, Intern | Ottawa, ON | — | Oct 6 | [Apply ↗](https://coawp.com/go/8902fb7c-9bc8-4297-af4d-2af6c6bd1a0c?from=github-all) |
 | **Moment Energy** | Mechanical Engineering, Co-op | Surrey, BC | Winter 2027<br><sub>8 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/ba9b0ffa-4570-44fd-9f50-3c7981c3b7ed?from=github-all) |
@@ -1701,9 +1700,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Perseus Group (Constellation Software)** | Software Developer, Intern | Markham, ON<br>Canada | — | Sep 13 | [Apply ↗](https://coawp.com/go/8a7d5e0a-f98d-4075-9f52-ab0cd59ac5d1?from=github-all) |
 | **Walmart** | Pharmacy, Intern | Temiskaming Shores, ON<br>Kapuskasing, ON<br><sub>+4 more</sub> | — | Sep 11 | [Apply ↗](https://coawp.com/go/3aa3def8-caf9-4d0b-889e-28ec50717f86?from=github-all) |
 | **Lyft** | Software Engineer – Machine Learning, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/cf433417-e3b1-40b4-b0f6-30dbc3fb5a60?from=github-all) |
-| **General Dynamics Mission Systems–Canada** | Systems Integration, Verification, and Validation, Co-op | Ottawa, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 or 12 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/bb048d89-ba19-43a5-9e26-4a913320b311?from=github-all) |
-| ↳ | Systems Integration, Verification and Validation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 or 8 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/b681cabe-ef9e-42c8-81d6-64265e5d82eb?from=github-all) |
-| **Lyft** | UX Research, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/dd8528aa-af99-474b-9f64-199f3db31b7c?from=github-all) |
+| ↳ | UX Research, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/dd8528aa-af99-474b-9f64-199f3db31b7c?from=github-all) |
 | ↳ | Software Engineer – Backend, Intern<br><sub>Requires French</sub> | Montréal, QC | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/7fca1351-9b8e-425c-84ce-580baa4a0737?from=github-all) |
 | ↳ | Software Developer – Backend, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Sep 11 | [Apply ↗](https://coawp.com/go/93c56dda-06fc-45df-b11b-092e6b254da1?from=github-all) |
 | ↳ | Software Engineer – Test Automation, Intern | Montréal, QC | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/96dc290e-99f6-4e92-8863-9b263881091a?from=github-all) |
