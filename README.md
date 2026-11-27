@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,843 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,842 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 405 | 44 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 404 | 44 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 559 | 60 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 459 | 54 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 188 | 26 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,843 open roles, newest first</sub>
+<sub>1,842 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -1741,7 +1741,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **FLINT Corp.** | Heavy Equipment Operator – Dozer and Grader, Student | Fort McMurray, AB | — | Sep 3 | [Apply ↗](https://coawp.com/go/095c4174-3073-4f81-8f7b-70fdbe85bdc0?from=github-all) |
 | **Sony Interactive Entertainment** | Software Developer, Co-op | Waterloo, ON | — | Sep 3 | [Apply ↗](https://coawp.com/go/015e4e1b-800b-45a2-8c05-f8a47a580c3b?from=github-all) |
 | **Shell** | Assessed Programme, Intern | Canada<br>Calgary, AB | Winter, Summer, Fall 2027<br><sub>4, 8, 12 or 16 months</sub> | Sep 2 | [Apply ↗](https://coawp.com/go/7386a470-24cc-478a-804e-6af4777850e0?from=github-all) |
-| **Thomson Reuters** | Applied Scientist, Intern | Toronto, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>6 months</sub> | Sep 2 | [Apply ↗](https://coawp.com/go/d8cf3028-a4ad-4c81-86a1-bb853057712f?from=github-all) |
 | **Hammond Power Solutions** | Manufacturing Engineering, Intern | Guelph, ON | — | Sep 2 | [Apply ↗](https://coawp.com/go/2e1f7b6f-8d56-4631-a29b-525cd912c00c?from=github-all) |
 | **Stantec** | Architect, Intern | Whitehorse, YT<br>Yellowknife, NT<br><sub>+1 more</sub> | — | Sep 2 | [Apply ↗](https://coawp.com/go/0b214951-9e9f-4b2c-9a7d-0f539e580db0?from=github-all) |
 | **EMCO Corporation** | Strategic Development Program, Intern | Québec, QC | — | Sep 2 | [Apply ↗](https://coawp.com/go/804ebf98-cc57-497f-9272-07e24f506351?from=github-all) |
