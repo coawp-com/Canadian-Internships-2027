@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,867 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,866 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -11,7 +11,7 @@ If this list helps, star it so you can find it again and other students can find
 
 | List | What it covers | Open roles | New this week |
 |:--|:--|--:|--:|
-| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 411 | 61 |
+| [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 410 | 61 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 552 | 69 |
 | [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 469 | 69 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 197 | 42 |
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,867 open roles, newest first</sub>
+<sub>1,866 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -528,7 +528,6 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | **Movati Athletic** | Club Placement – Performance Coaching, Intern | Orléans, ON | — | Nov 13 | [Apply ↗](https://coawp.com/go/05420fcf-8e7b-4cfc-8d4a-0c70f45f2f39?from=github-all) |
 | ↳ | Club Placement – Performance Coaching, Intern | Ottawa, ON | — | Nov 13 | [Apply ↗](https://coawp.com/go/def04ad6-ebae-418b-9658-477034fabee1?from=github-all) |
 | **Federated Co-op Retail** | Pharmacy, Co-op | Winnipeg, MB<br>Niverville, MB | — | Nov 13 | [Apply ↗](https://coawp.com/go/5a542690-af2d-4d06-8647-6793dc77aa04?from=github-all) |
-| **Seaspan** | Business Analysis & Project Coordination, Intern | North Vancouver, BC | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/f17a93e1-e1ad-42a7-83b4-a6109655d0c9?from=github-all) |
 | **Kingston Midstream** | Data Science, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/27076b63-7f8d-47f9-9c2e-c0d68a125622?from=github-all) |
 | ↳ | GIS, Co-op | Calgary, AB | Winter 2027<br><sub>8 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/16b19809-77ca-4e94-9d14-503889b7d5a1?from=github-all) |
 | ↳ | IS&T Cybersecurity, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/abbf956f-418f-4a14-b22b-0cedd27509f8?from=github-all) |
