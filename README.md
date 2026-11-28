@@ -2,7 +2,7 @@
 
 # Canadian Internships 2027
 
-**1,891 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
+**1,890 open internships, co-ops and student jobs** across Canada, in every field. Read straight from employers' own job boards and updated every 2 hours.
 
 If this list helps, star it so you can find it again and other students can find it too.
 
@@ -13,7 +13,7 @@ If this list helps, star it so you can find it again and other students can find
 |:--|:--|--:|--:|
 | [Tech](https://github.com/coawp-com/Canadian-Tech-Internships-2027) | Software, data, AI, IT, security, product and design | 413 | 64 |
 | [Engineering](https://github.com/coawp-com/Canadian-Engineering-Internships-2027) | Mechanical, electrical, civil, chemical and manufacturing | 563 | 73 |
-| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 475 | 71 |
+| [Business](https://github.com/coawp-com/Canadian-Business-Internships-2027) | Operations, marketing, sales, consulting and HR | 474 | 71 |
 | [Finance](https://github.com/coawp-com/Canadian-Finance-Internships-2027) | Banking, markets, investments, accounting and actuarial | 201 | 43 |
 | [Science & Health](https://github.com/coawp-com/Canadian-Science-Health-Internships-2027) | Science, research and healthcare | 142 | 21 |
 
@@ -21,7 +21,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 
 ## All roles
 
-<sub>1,891 open roles, newest first</sub>
+<sub>1,890 open roles, newest first</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -984,8 +984,7 @@ Building something? Every role here is in [listings.json](listings.json), rewrit
 | ↳ | Camera Systems, Intern | Vancouver, BC | Summer 2027<br><sub>16 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/45c69f05-a2c7-4b9f-8c9e-8ece78c1bf42?from=github-all) |
 | ↳ | High-Speed Electrical and Optical Systems Validation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/8f61e442-bc2b-4bde-869a-00b34791514f?from=github-all) |
 | ↳ | Softip Engineering, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/9b7c196b-0ce6-4d72-aabf-eeb90cc868b4?from=github-all) |
-| **RBC** | Student, Co-op | Toronto, ON | — | Oct 29 | [Apply ↗](https://coawp.com/go/bc5d47c9-3ba6-42e0-bfe0-50a8d8ef2b87?from=github-all) |
-| ↳ | T&O Student Quest, Co-op | Toronto, ON<br>Mississauga, ON | — | Oct 29 | [Apply ↗](https://coawp.com/go/0a7daa53-c2ab-4446-b007-496bdc65450a?from=github-all) |
+| **RBC** | T&O Student Quest, Co-op | Toronto, ON<br>Mississauga, ON | — | Oct 29 | [Apply ↗](https://coawp.com/go/0a7daa53-c2ab-4446-b007-496bdc65450a?from=github-all) |
 | **TMX Group** | Cash Management Officer – Tax, Co-op | Toronto, ON | Winter 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/4537bb9e-652b-4698-8521-1772c54ea6c4?from=github-all) |
 | **Alamos Gold** | Open Pit Engineering, Co-op | Ontario | Winter 2027<br><sub>8 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/11d63ae5-8e04-4f15-97bb-fcb9266ff2ee?from=github-all) |
 | ↳ | Geology, Intern | Ontario | Summer 2027<br><sub>12 or 16 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/7029ee10-3cd2-472a-8d02-dc74823f42cd?from=github-all) |
